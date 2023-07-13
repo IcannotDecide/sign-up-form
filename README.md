@@ -1,3 +1,3 @@
 # sign-up-form
 
-Sign up form for an imaginary website
+Sign up form for an imaginary service
