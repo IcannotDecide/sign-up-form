@@ -4,7 +4,7 @@ The first div contains the background image
 The second div contains the signup form 
 
 First div 
-Background image on div an absolute positioned div inside this div 
+Background image on div with an absolute positioned div inside this div 
 that is about 200px height is transparent and has a logo with text
 
 Second div 
