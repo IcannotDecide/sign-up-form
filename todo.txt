@@ -1,0 +1,18 @@
+Create a main flex div 
+inside this div there are two divs
+The first div contains the background image
+The second div contains the signup form 
+
+First div 
+Background image on div an absolute positioned div inside this div 
+that is about 200px height is transparent and has a logo with text
+
+Second div 
+3 Main div sections
+
+first div contains a p of text that is just an introduction to the form
+
+second div contains a header then a form 
+
+third div contains the complete form button and "Already have an account?
+Log in" text under
