@@ -1,1 +1,3 @@
 Change button type submit to input type submit
+
+Add required
