@@ -84,3 +84,7 @@
 .submit:active {
   background-color: #4a5a3c;
 }
+
+label {
+  color: #6f6464;
+}
